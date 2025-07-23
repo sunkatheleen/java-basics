@@ -5,7 +5,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class ExercicioSimples3 {
+public class ExerciciosSimples3 {
     public static void main (String[] args) {
 
         Scanner calculo = new Scanner(System.in);
